@@ -5,6 +5,30 @@ An open-source research library for deep value investing, fundamental analysis, 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Snapshot Date](https://img.shields.io/badge/Snapshot-February%2019%2C%202026-blue)
 
+## Read it online: research.deepvalues.ai
+
+Every document in this repository is published, searchable and bilingual (EN / 中文) at
+**[research.deepvalues.ai](https://research.deepvalues.ai/)**, free and open:
+
+- Companies A–Z: <https://research.deepvalues.ai/company/> — one page per ticker
+  (`/company/<ticker>/`, e.g. [AAPL](https://research.deepvalues.ai/company/aapl/)) with the full
+  report timeline; each dated report lives at `/company/<ticker>/<YYYY-MM-DD>-<en|zh>/`
+- Sections: [Market](https://research.deepvalues.ai/market/) ·
+  [Gurus](https://research.deepvalues.ai/gurus/) ·
+  [Principles](https://research.deepvalues.ai/principles/) ·
+  [Buffett Archive](https://research.deepvalues.ai/buffett-archive/) ·
+  [Personal Finance](https://research.deepvalues.ai/personal-finance/) ·
+  [Business Notes](https://research.deepvalues.ai/business/)
+- Follow: [RSS](https://research.deepvalues.ai/feed.xml) · [Atom](https://research.deepvalues.ai/atom.xml)
+- For AI agents and scripts: [/for-agents/](https://research.deepvalues.ai/for-agents/) —
+  [`llms.txt`](https://research.deepvalues.ai/llms.txt), [`index.json`](https://research.deepvalues.ai/index.json)
+  (ticker → latest report URLs), a markdown twin (`index.md`) next to every report, and
+  [`sitemap.xml`](https://research.deepvalues.ai/sitemap.xml)
+
+Please cite as: *DeepValues Research, <title>, <url>.* The daily reports are produced by
+[Deep Value Intelligence](https://deepvalues.ai) (multi-agent AI research) and the
+[DeepValues app](https://app.deepvalues.ai) links each company page to its report here.
+
 ## Overview
 
 This repository is a content-first knowledge base. It combines company-level deep dives, macro and market memos, investor philosophy research, and educational value investing frameworks.
