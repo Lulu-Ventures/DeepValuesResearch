@@ -119,6 +119,17 @@ Contributions are welcome via issues and pull requests. To keep the repository c
 - Use clear, date-stamped filenames when relevant.
 - Keep analyses in Markdown format.
 
+## Find us
+
+| | |
+|---|---|
+| **Research site** (free, CC BY 4.0) | [research.deepvalues.ai](https://research.deepvalues.ai/) · for agents: [for-agents](https://research.deepvalues.ai/for-agents/) · [llms.txt](https://research.deepvalues.ai/llms.txt) |
+| **Apps** | [Web app](https://app.deepvalues.ai) · [DeepValues for iPhone](https://apps.apple.com/us/app/deepvalues/id6775568608) · [Buffett Indicator (iPhone)](https://apps.apple.com/us/app/buffett-indicator/id6747404614) · [Bubble Watch (Android)](https://play.google.com/store/apps/details?id=com.luluventures.buffett) · [Deep Value Intelligence](https://deepvalues.ai) |
+| **YouTube** | [Deep Value Investing](https://www.youtube.com/@TheDeepValues) (investing) · [Deep Values Frontier](https://www.youtube.com/@deep-values) (AI) |
+| **Podcasts** | [All shows on Apple Podcasts](https://podcasts.apple.com/us/channel/deepvalues/id6826606342) — Deep Values ([Apple](https://podcasts.apple.com/us/podcast/id1811057697) · [Spotify](https://open.spotify.com/show/2XDn2NMbbfvrJiqk9xAqR9)) · 深度价值 ([Apple](https://podcasts.apple.com/us/podcast/id1813017485) · [Spotify](https://open.spotify.com/show/4pkWVzv9g4msNzlYLUhnm5)) · Deep Values Frontier ([Apple](https://podcasts.apple.com/us/podcast/id6826607834) · [Spotify](https://open.spotify.com/show/2FlcJXyfpOMhbSFhxYRSqu)) · 深度價值前沿 ([Apple](https://podcasts.apple.com/us/podcast/id6826608491) · [Spotify](https://open.spotify.com/show/1TZVwfAXxvl4rhCDftD2QV)) · Deep Value Intelligence ([Apple](https://podcasts.apple.com/us/podcast/id1814712395)) · 深度价值情报站 ([Apple](https://podcasts.apple.com/us/podcast/id1815091981) · [Spotify](https://open.spotify.com/show/4njZmucbNiefdXqwXQDEuX)) |
+| **Developers** | [API · MCP · x402](https://app.deepvalues.ai/developers) |
+| **Follow / contact** | [X @thedeepvalue](https://x.com/thedeepvalue) · team@deepvalues.ai |
+
 ## License
 
 This project is licensed under the MIT License. See [`LICENSE`](LICENSE).
