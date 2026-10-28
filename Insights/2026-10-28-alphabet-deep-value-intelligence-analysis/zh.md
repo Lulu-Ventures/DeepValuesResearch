@@ -8,8 +8,15 @@ notebook_id: "e7dfbd8b-535c-4d4e-aef6-583324ff6ac4"
 source_urls:
   - title: "Alphabet Deep Value"
   - title: "GOOGL Post-Earnings Deep Research"
-youtube: []
-podcast: []
+youtube:
+  - title: "Alphabet's $205B Bet Turns Google Into an AI Utility"
+    url: "https://youtu.be/oeGBkg8iZLM"
+    lang: "en"
+    publish_at: "2026-11-15T14:00:00Z"
+podcast:
+  - title: "Alphabet (GOOGL) — Neutral? Alphabet's $205B Bet Turns Google Into an AI Utility"
+    url: "https://open.spotify.com/episode/44gUCXDegFc8hJi0vcNFXv"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
