@@ -8,8 +8,14 @@ notebook_id: "5f02a9c8-dae0-4c3f-9da5-69760309e737"
 source_urls:
   - title: "Stanford CS146S: How always-on agents work"
     url: "https://www.youtube.com/watch?v=L1OBRtfPS34"
-youtube: []
-podcast: []
+youtube:
+  - title: "SpaceX Engineer: Always-On AI Agents Hit a 200K Token Wall"
+    url: "https://youtu.be/yXYfMl5_wLc"
+    lang: "en"
+podcast:
+  - title: "SpaceX Engineer: Always-On AI Agents Hit a 200K Token Wall"
+    url: "https://open.spotify.com/episode/6suF8B0LJ27jtP97U916bZ"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
