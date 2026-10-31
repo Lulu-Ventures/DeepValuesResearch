@@ -12,10 +12,16 @@ youtube:
   - title: "SpaceX Engineer: Always-On AI Agents Hit a 200K Token Wall"
     url: "https://youtu.be/yXYfMl5_wLc"
     lang: "en"
+  - title: "SpaceX讓AI替員工開會：全天候智能體連跑3週"
+    url: "https://youtu.be/FxnutOxzq0k"
+    lang: "zh"
 podcast:
   - title: "SpaceX Engineer: Always-On AI Agents Hit a 200K Token Wall"
     url: "https://open.spotify.com/episode/6suF8B0LJ27jtP97U916bZ"
     lang: "en"
+  - title: "SpaceX讓AI替員工開會：全天候智能體連跑3週"
+    url: "https://open.spotify.com/episode/3nPd3BDRsJePM1GlzvuO0z"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
