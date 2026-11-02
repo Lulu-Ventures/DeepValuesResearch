@@ -8,7 +8,11 @@ notebook_id: "86107a89-32b7-4c7e-8957-17fdf0e2345a"
 source_urls:
   - title: "【李永乐老师】中美股市哪个更赚钱？为什么道指屡创新高，上证指数永远3000点？"
     url: "https://www.youtube.com/watch?v=JKljQMMaBxE"
-youtube: []
+youtube:
+  - title: "Shanghai vs Dow: How a Flat 3,000 Hid 9% Real Annual Returns"
+    url: "https://youtu.be/XW8SVllB9Bk"
+    lang: "en"
+    publish_at: "2026-11-05T22:00:00Z"
 podcast: []
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
