@@ -13,6 +13,10 @@ youtube:
     url: "https://youtu.be/_Po0lYUdIFI"
     lang: "en"
     publish_at: "2026-11-06T18:00:00Z"
+  - title: "大賣空原型Eisman警告：標普500竟65%綁AI"
+    url: "https://youtu.be/DYsWe9w32VY"
+    lang: "zh"
+    publish_at: "2026-11-07T00:00:00Z"
 podcast:
   - title: "The S&P 500 Is a Hidden 65% AI Bet, Warns Steve Eisman"
     url: "https://open.spotify.com/episode/3UKJZCW20AvU3qKTOirSnj"

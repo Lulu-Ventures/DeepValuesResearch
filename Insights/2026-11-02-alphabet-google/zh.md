@@ -12,6 +12,10 @@ youtube:
     url: "https://youtu.be/4iXpDCm0u3M"
     lang: "en"
     publish_at: "2026-11-06T22:00:00Z"
+  - title: "段永平想賣蘋果換Google?AI恐慌下廣告仍雙位數成長"
+    url: "https://youtu.be/iVncqHTi0JA"
+    lang: "zh"
+    publish_at: "2026-11-07T04:30:00Z"
 podcast:
   - title: "Alphabet (GOOG) — Bullish? Google's $300K-a-Month Clue: Duan Yongping Ignores AI Fears"
     url: "https://open.spotify.com/episode/6vUwDE6IL9fq68ZAN1YFkh"
