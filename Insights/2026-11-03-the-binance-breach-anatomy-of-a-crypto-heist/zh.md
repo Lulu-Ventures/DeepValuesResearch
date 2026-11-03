@@ -12,7 +12,14 @@ youtube:
     url: "https://youtu.be/nQBTXpYbObc"
     lang: "en"
     publish_at: "2026-11-07T14:00:00Z"
-podcast: []
+  - title: "幣安63億美元失竊：沒偷私鑰，靠內部AI得手"
+    url: "https://youtu.be/4Sgb6IDi050"
+    lang: "zh"
+    publish_at: "2026-11-08T00:00:00Z"
+podcast:
+  - title: "幣安63億美元失竊：沒偷私鑰，靠內部AI得手"
+    url: "https://open.spotify.com/episode/2ftb0EuynAockbJEM4lJ7x"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
