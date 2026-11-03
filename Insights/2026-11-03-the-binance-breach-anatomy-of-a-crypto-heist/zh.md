@@ -7,7 +7,11 @@ tickers: []
 notebook_id: "a96106f0-3f05-41d9-92c7-5590624c9969"
 source_urls:
   - title: "The Binance Breach"
-youtube: []
+youtube:
+  - title: "Binance Lost $6.3B to a Fake Zoom Call and 50 Lines of Code"
+    url: "https://youtu.be/nQBTXpYbObc"
+    lang: "en"
+    publish_at: "2026-11-07T14:00:00Z"
 podcast: []
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
