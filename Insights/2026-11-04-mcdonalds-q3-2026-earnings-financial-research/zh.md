@@ -20,7 +20,10 @@ youtube:
   - title: "McDonald's Priced for 9.5% Growth Forever. Comps Grew 1.5%"
     url: "https://youtu.be/v5O1fdSojmM"
     lang: "en"
-podcast: []
+podcast:
+  - title: "McDonald's (MCD) — McDonald's Priced for 9.5% Growth Forever. Comps Grew 1.5%"
+    url: "https://open.spotify.com/episode/3jyuATJMXTCASzImrZ6D36"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
