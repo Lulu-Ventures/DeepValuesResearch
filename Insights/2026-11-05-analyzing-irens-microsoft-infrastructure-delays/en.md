@@ -7,8 +7,15 @@ tickers: []
 notebook_id: "1cfb1eb0-c357-4aea-8149-9991a98507b9"
 source_urls:
   - title: "IREN Microsoft Infrastructure Delay"
-youtube: []
-podcast: []
+youtube:
+  - title: "IREN's $9.7B Microsoft Deal: Delay or Thesis Break?"
+    url: "https://youtu.be/T9vYEVVTJ3U"
+    lang: "en"
+    publish_at: "2026-11-09T18:00:00Z"
+podcast:
+  - title: "Iron Mountain (IREN) — Neutral? IREN's $9.7B Microsoft Deal: Delay or Thesis Break?"
+    url: "https://open.spotify.com/episode/2vWn9QoGXkbn8dFQzCItMa"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
