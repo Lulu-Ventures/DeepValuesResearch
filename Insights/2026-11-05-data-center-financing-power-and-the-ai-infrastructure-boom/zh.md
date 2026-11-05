@@ -8,7 +8,11 @@ notebook_id: "164096e8-dfd3-42f1-9830-91f19809a374"
 source_urls:
   - title: "“只要敢借，就有人敢贷”：聊数据中心融资、电力、算力与泡沫｜硅谷101年度线下大会"
     url: "https://www.youtube.com/watch?v=xzc99JOBMlY"
-youtube: []
+youtube:
+  - title: "AI Wants 1 Gigawatt Per Building. The Grid Can't Deliver"
+    url: "https://youtu.be/kiuWfmg0dHw"
+    lang: "en"
+    publish_at: "2026-11-09T14:00:00Z"
 podcast: []
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
