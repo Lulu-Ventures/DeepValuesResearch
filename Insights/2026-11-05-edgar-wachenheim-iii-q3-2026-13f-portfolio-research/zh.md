@@ -12,7 +12,10 @@ source_urls:
     url: "https://en.wikipedia.org/wiki/Edgar_Wachenheim_III"
   - title: "Lennar (LEN) Stock Analysis & Intrinsic Value: Neutral"
     url: "https://research.deepvalues.ai/company/len/"
-youtube: []
+youtube:
+  - title: "Lennar: Why a 19%-a-Year Investor Made It His Big Bet"
+    url: "https://youtu.be/iPCxjnr4l0s"
+    lang: "en"
 podcast: []
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
