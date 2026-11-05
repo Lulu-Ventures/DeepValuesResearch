@@ -21,6 +21,9 @@ podcast:
   - title: "Alphabet (GOOG) — Neutral? Alphabet's $200B AI Moat vs. Its Free Cash Flow"
     url: "https://open.spotify.com/episode/1Z28TRZyPCKoIx8H6IKtCf"
     lang: "en"
+  - title: "Alphabet（GOOGL）中性？Google雲端翻倍、AI奪冠，自由現金流卻轉負90億美元"
+    url: "https://open.spotify.com/episode/2f2ghgq0sayr5IOPOCE3lq"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
