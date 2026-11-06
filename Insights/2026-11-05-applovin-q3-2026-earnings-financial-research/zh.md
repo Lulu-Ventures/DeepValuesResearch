@@ -16,6 +16,9 @@ youtube:
   - title: "AppLovin安裝量只增2%營收卻暴增55%"
     url: "https://youtu.be/iFyDV76TqdM"
     lang: "zh"
+  - title: "AppLovin's 66% Margin: Real Profit or Accounting Trick?"
+    url: "https://youtu.be/_h-OWejidJg"
+    lang: "en"
 podcast:
   - title: "AppLovin（APP）中性？AppLovin安裝量只增2%營收卻暴增55%"
     url: "https://open.spotify.com/episode/0RXi5lqIj6i8hqQpdEjBA3"
