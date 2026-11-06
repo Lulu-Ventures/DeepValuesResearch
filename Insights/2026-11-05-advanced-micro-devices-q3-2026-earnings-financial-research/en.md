@@ -25,6 +25,9 @@ youtube:
     url: "https://youtu.be/iMhM7nAc24U"
     lang: "en"
 podcast:
+  - title: "Advanced Micro Devices (AMD) — AMD's $13.4B Quarter: Why Owners Kept Only $31M"
+    url: "https://open.spotify.com/episode/6iraP7J1mivSEhk4ENdZLw"
+    lang: "en"
   - title: "Advanced Micro Devices（AMD）AMD淨利35億美元，股東盈餘只剩3100萬…"
     url: "https://open.spotify.com/episode/2lFGbfnPjEXaLolFbh3dlk"
     lang: "zh"
