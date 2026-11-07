@@ -7,7 +7,11 @@ tickers: []
 notebook_id: "59abf0fb-82be-428a-a097-bf583197bd98"
 source_urls:
   - title: "Cloud Infrastructure Shift"
-youtube: []
+youtube:
+  - title: "Microsoft Drops Oracle Cloud: The $80B Rent Problem"
+    url: "https://youtu.be/R3Re5qrEL5k"
+    lang: "en"
+    publish_at: "2026-11-10T22:00:00Z"
 podcast: []
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
