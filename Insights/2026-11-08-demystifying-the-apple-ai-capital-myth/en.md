@@ -13,7 +13,10 @@ youtube:
     url: "https://youtu.be/bj6vUQ36F7s"
     lang: "en"
     publish_at: "2026-11-12T14:00:00Z"
-podcast: []
+podcast:
+  - title: "Amazon's $215B AI Bet vs Apple's $9B: Who Earns It Back? | Stock Market"
+    url: "https://open.spotify.com/episode/4rkSG7jfDD9KHhjWgOzKor"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
