@@ -8,7 +8,11 @@ notebook_id: "285e9b52-90c4-47ac-947d-eb4aa67b5623"
 source_urls:
   - title: "AI CapEx Risk"
   - title: "AI Capital Myths"
-youtube: []
+youtube:
+  - title: "Amazon's $215B AI Bet vs Apple's $9B: Who Earns It Back?"
+    url: "https://youtu.be/bj6vUQ36F7s"
+    lang: "en"
+    publish_at: "2026-11-12T14:00:00Z"
 podcast: []
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
