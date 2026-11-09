@@ -22,6 +22,9 @@ podcast:
   - title: "GPT-6 Astra Fixed Another AI by Editing 0.016% of Weights"
     url: "https://open.spotify.com/episode/200SUrZigdIucalrV9LNAb"
     lang: "en"
+  - title: "輝達GPU需求會崩嗎？AI只改0.016%權重，數學成績暴增6倍"
+    url: "https://open.spotify.com/episode/2yXOiEZYHTgbXExJtRe46e"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
