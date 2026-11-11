@@ -8,8 +8,15 @@ notebook_id: "4f8e97c6-ff79-4db8-acf0-ff488f39a871"
 source_urls:
   - title: "Start With Being a King | Nassim Taleb & Naval Ravikant"
     url: "https://www.youtube.com/watch?v=keNojJqYbFI"
-youtube: []
-podcast: []
+youtube:
+  - title: "Taleb and Naval: Who Pays When Management Fails?"
+    url: "https://youtu.be/9f6QcNfQQU0"
+    lang: "en"
+    publish_at: "2026-11-14T14:00:00Z"
+podcast:
+  - title: "Taleb and Naval: Who Pays When Management Fails? | Value Investing"
+    url: "https://open.spotify.com/episode/51Lkp8Cqe8afb3InenF5tq"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
