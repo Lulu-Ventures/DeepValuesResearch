@@ -13,8 +13,14 @@ source_urls:
     url: "https://www.sec.gov/Archives/edgar/data/860643/000086064326000006/0000860643-26-000006-index.htm"
   - title: "MasterCard (MA) Stock Analysis & Intrinsic Value: Neutral"
     url: "https://research.deepvalues.ai/company/ma/"
-youtube: []
-podcast: []
+youtube:
+  - title: "Tom Russo賣出3.3億美元：為何減碼Google與萬事達卡"
+    url: "https://youtu.be/lXcTYufyae0"
+    lang: "zh"
+podcast:
+  - title: "Tom Russo賣出3.3億美元：為何減碼Google與萬事達卡｜投資大師心法"
+    url: "https://open.spotify.com/episode/0nLik6U3WN7Mtq5PYoXewI"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---

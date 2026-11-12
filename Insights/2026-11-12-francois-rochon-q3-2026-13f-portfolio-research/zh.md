@@ -17,7 +17,10 @@ youtube:
   - title: "Rochon Dumped Lululemon at 67% Off for Pricier MSA Safety"
     url: "https://youtu.be/oYsrqvtiwOE"
     lang: "en"
-podcast: []
+podcast:
+  - title: "Rochon Dumped Lululemon at 67% Off for Pricier MSA Safety | Investor Playbook"
+    url: "https://open.spotify.com/episode/6W62E4pwBEyOVfgsCqWcl6"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
