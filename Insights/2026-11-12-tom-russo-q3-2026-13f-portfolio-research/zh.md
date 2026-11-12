@@ -17,10 +17,16 @@ youtube:
   - title: "Tom Russo賣出3.3億美元：為何減碼Google與萬事達卡"
     url: "https://youtu.be/lXcTYufyae0"
     lang: "zh"
+  - title: "Why Tom Russo Trimmed Alphabet and Mastercard by 4%"
+    url: "https://youtu.be/0-q2gWvjTEY"
+    lang: "en"
 podcast:
   - title: "Tom Russo賣出3.3億美元：為何減碼Google與萬事達卡｜投資大師心法"
     url: "https://open.spotify.com/episode/0nLik6U3WN7Mtq5PYoXewI"
     lang: "zh"
+  - title: "Why Tom Russo Trimmed Alphabet and Mastercard by 4% | Investor Playbook"
+    url: "https://open.spotify.com/episode/6VVNOJfY24VOeqa7PiQNKR"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
