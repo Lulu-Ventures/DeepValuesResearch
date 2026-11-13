@@ -8,8 +8,15 @@ notebook_id: "3ddfcbde-5596-4775-b10d-24451125654a"
 source_urls:
   - title: "\"Jensen Huang's Exit Could Change the AI Industry Forever\" - Dylan Patel"
     url: "https://www.youtube.com/watch?v=z8_hlGA51ck"
-youtube: []
-podcast: []
+youtube:
+  - title: "沒有黃仁勳的輝達，還鎖得住60-70%晶圓產能嗎？"
+    url: "https://youtu.be/OJ6FMm3aX_4"
+    lang: "zh"
+    publish_at: "2026-11-17T12:00:00Z"
+podcast:
+  - title: "NVIDIA（NVDA）沒有黃仁勳的輝達，還鎖得住60-70%晶圓產能嗎？"
+    url: "https://open.spotify.com/episode/4CzsHb9i09Jfp7lxdSmnhN"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
