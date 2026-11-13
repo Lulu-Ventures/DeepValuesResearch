@@ -17,8 +17,14 @@ source_urls:
     url: "https://research.deepvalues.ai/company/nvda/"
   - title: "Tesla (TSLA) Stock Analysis & Intrinsic Value: Neutral"
     url: "https://research.deepvalues.ai/company/tsla/"
-youtube: []
-podcast: []
+youtube:
+  - title: "特斯拉股價高出價值近五倍，伍德為何還加碼"
+    url: "https://youtu.be/9WGgFwthgVA"
+    lang: "zh"
+podcast:
+  - title: "特斯拉股價高出價值近五倍，伍德為何還加碼｜投資大師心法"
+    url: "https://open.spotify.com/episode/4iQMPz99gHrl32tRD8BaxI"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
