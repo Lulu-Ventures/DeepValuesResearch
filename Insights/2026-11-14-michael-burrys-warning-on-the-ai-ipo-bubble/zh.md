@@ -13,10 +13,17 @@ youtube:
     url: "https://youtu.be/SIqRigHL5Nk"
     lang: "en"
     publish_at: "2026-11-19T22:00:00Z"
+  - title: "Anthropic半年營運虧6.93億美元卻要2兆估值：貝瑞的AI IPO泡沫警告"
+    url: "https://youtu.be/MnXYcQTRuQE"
+    lang: "zh"
+    publish_at: "2026-11-15T00:00:00Z"
 podcast:
   - title: "SpaceX, OpenAI, Anthropic: Burry's 2000-Style IPO Warning | Stock Market"
     url: "https://open.spotify.com/episode/1lCtT8irhP334LrpibAAdb"
     lang: "en"
+  - title: "Anthropic半年營運虧6.93億美元卻要2兆估值：貝瑞的AI IPO泡沫警告"
+    url: "https://open.spotify.com/episode/7yx1JfCoJrtsynMK9CSnw4"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
