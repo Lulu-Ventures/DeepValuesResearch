@@ -8,8 +8,15 @@ notebook_id: "ec22f6c6-f063-4925-a7aa-f062cea7efab"
 source_urls:
   - title: "Michael Burry: The TRUTH About the Anthropic and OpenAI IPOs..."
     url: "https://www.youtube.com/watch?v=RVKV45INs4o"
-youtube: []
-podcast: []
+youtube:
+  - title: "SpaceX, OpenAI, Anthropic: Burry's 2000-Style IPO Warning"
+    url: "https://youtu.be/SIqRigHL5Nk"
+    lang: "en"
+    publish_at: "2026-11-19T22:00:00Z"
+podcast:
+  - title: "SpaceX, OpenAI, Anthropic: Burry's 2000-Style IPO Warning | Stock Market"
+    url: "https://open.spotify.com/episode/1lCtT8irhP334LrpibAAdb"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
