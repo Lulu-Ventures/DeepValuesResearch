@@ -18,6 +18,9 @@ source_urls:
   - title: "Tesla (TSLA) Stock Analysis & Intrinsic Value: Neutral"
     url: "https://research.deepvalues.ai/company/tsla/"
 youtube:
+  - title: "ARKはなぜAMDを52%減らしNVIDIAを85%買い増したのか"
+    url: "https://youtu.be/7J5WQMOuqM0"
+    lang: "ja"
   - title: "Cathie Wood frente a Buffett: Tesla a $390, ¿vale $69?"
     url: "https://youtu.be/pEcWq-55iWA"
     lang: "es"
@@ -31,6 +34,9 @@ youtube:
     url: "https://youtu.be/9WGgFwthgVA"
     lang: "zh"
 podcast:
+  - title: "ARKはなぜAMDを52%減らしNVIDIAを85%買い増したのか"
+    url: "https://open.spotify.com/episode/6AHwf3EbS3i9EUcq2im0r1"
+    lang: "ja"
   - title: "Cathie Wood frente a Buffett: Tesla a $390, ¿vale $69?"
     url: "https://open.spotify.com/episode/5P8hBvJXSnrlzC7D7dT3Kn"
     lang: "es"
