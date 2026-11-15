@@ -21,7 +21,10 @@ youtube:
   - title: "Soros Piles Into Intel at a -769% Margin of Safety"
     url: "https://youtu.be/IQMgoA2tQkY"
     lang: "en"
-podcast: []
+podcast:
+  - title: "Soros Piles Into Intel at a -769% Margin of Safety | Investor Playbook"
+    url: "https://open.spotify.com/episode/1c7k4jFnG5S6SPRoYlwizv"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
