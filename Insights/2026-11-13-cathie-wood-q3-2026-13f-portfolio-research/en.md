@@ -18,6 +18,9 @@ source_urls:
   - title: "Tesla (TSLA) Stock Analysis & Intrinsic Value: Neutral"
     url: "https://research.deepvalues.ai/company/tsla/"
 youtube:
+  - title: "Cathie Wood frente a Buffett: Tesla a $390, ¿vale $69?"
+    url: "https://youtu.be/pEcWq-55iWA"
+    lang: "es"
   - title: "Cathie Wood's ARK vs Buffett: Tesla at -463.9% Safety Margin"
     url: "https://youtu.be/h7x8G9Hms38"
     lang: "en"
