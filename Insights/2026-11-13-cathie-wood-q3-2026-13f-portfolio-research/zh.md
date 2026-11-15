@@ -33,6 +33,9 @@ youtube:
   - title: "特斯拉股價高出價值近五倍，伍德為何還加碼"
     url: "https://youtu.be/9WGgFwthgVA"
     lang: "zh"
+  - title: "캐시 우드, AMD 지분 52% 팔고 엔비디아 85% 늘린 이유"
+    url: "https://youtu.be/zihdF-TY4MM"
+    lang: "ko"
 podcast:
   - title: "ARKはなぜAMDを52%減らしNVIDIAを85%買い増したのか"
     url: "https://open.spotify.com/episode/6AHwf3EbS3i9EUcq2im0r1"
@@ -49,6 +52,9 @@ podcast:
   - title: "特斯拉股價高出價值近五倍，伍德為何還加碼｜投資大師心法"
     url: "https://open.spotify.com/episode/4iQMPz99gHrl32tRD8BaxI"
     lang: "zh"
+  - title: "캐시 우드, AMD 지분 52% 팔고 엔비디아 85% 늘린 이유"
+    url: "https://open.spotify.com/episode/2kfV5O9lYHbrrxHyxY9UrA"
+    lang: "ko"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
