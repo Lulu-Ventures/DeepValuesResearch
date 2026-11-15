@@ -17,7 +17,10 @@ source_urls:
     url: "https://research.deepvalues.ai/company/lin/"
   - title: "Meta Platforms (META) Stock Analysis: Bearish | DeepValues"
     url: "https://research.deepvalues.ai/company/meta/"
-youtube: []
+youtube:
+  - title: "Soros Piles Into Intel at a -769% Margin of Safety"
+    url: "https://youtu.be/IQMgoA2tQkY"
+    lang: "en"
 podcast: []
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
