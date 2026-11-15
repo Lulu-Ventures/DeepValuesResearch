@@ -15,8 +15,14 @@ source_urls:
     url: "https://research.deepvalues.ai/company/rig/"
   - title: "Warrior Met Coal (HCC) Stock Analysis: Neutral | DeepValues"
     url: "https://research.deepvalues.ai/company/hcc/"
-youtube: []
-podcast: []
+youtube:
+  - title: "Pabrai's $42.3M Transocean Bet: Price 385.8% Above Value"
+    url: "https://youtu.be/YJ4k4PDvsmY"
+    lang: "en"
+podcast:
+  - title: "Pabrai's $42.3M Transocean Bet: Price 385.8% Above Value | Investor Playbook"
+    url: "https://open.spotify.com/episode/4zkk8LwvYnXeN2K1h3igSi"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
