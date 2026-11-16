@@ -8,7 +8,11 @@ notebook_id: "76e8407d-ef5a-4754-9495-35d49c0ad1e8"
 source_urls:
   - title: "AI的终极赢家，未必是造智能的人​ | AI泡沫 | 制高点 | The Commanding Heights | Will Manidis | 智能体 | AI资本开支 | 推理成本 | 主权AI"
     url: "https://www.youtube.com/watch?v=h3Df6UpXxQk"
-youtube: []
+youtube:
+  - title: "AI Prices Fell 13x as CapEx Nears $800B: Who Owns the Moat?"
+    url: "https://youtu.be/vC44LWcybmI"
+    lang: "en"
+    publish_at: "2026-11-20T18:00:00Z"
 podcast: []
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
