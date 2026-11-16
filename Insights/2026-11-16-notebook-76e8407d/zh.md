@@ -13,7 +13,16 @@ youtube:
     url: "https://youtu.be/vC44LWcybmI"
     lang: "en"
     publish_at: "2026-11-20T18:00:00Z"
-podcast: []
+  - title: "AI智慧單價一年暴跌13倍巴菲特指標，收過路費的竟是穩定幣"
+    url: "https://youtu.be/ojk7Utif8_Q"
+    lang: "zh"
+podcast:
+  - title: "AI Prices Fell 13x as CapEx Nears $800B: Who Owns the Moat? | Stock Market"
+    url: "https://open.spotify.com/episode/5QCxznDX56zHbdx3GDmyYd"
+    lang: "en"
+  - title: "AI智慧單價一年暴跌13倍巴菲特指標，收過路費的竟是穩定幣｜美股市場"
+    url: "https://open.spotify.com/episode/44OoatKlI7q4bEtrdCjiBc"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
