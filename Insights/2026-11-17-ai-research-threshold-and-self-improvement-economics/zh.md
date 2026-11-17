@@ -12,7 +12,16 @@ youtube:
     url: "https://youtu.be/H39mgyrfIIY"
     lang: "en"
     publish_at: "2026-11-17T14:00:00Z"
-podcast: []
+  - title: "Anthropic為何親手對AI踩煞車？能力進展已達過去1.9倍"
+    url: "https://youtu.be/RvljeLXY-9w"
+    lang: "zh"
+podcast:
+  - title: "Anthropic's AI Speeds Its Own Research 1.9x: Real or Hype?"
+    url: "https://open.spotify.com/episode/1cIfz4HUcCIl0SRldCDgVi"
+    lang: "en"
+  - title: "Anthropic為何親手對AI踩煞車？能力進展已達過去1.9倍"
+    url: "https://open.spotify.com/episode/2R7WAfzAC7tYd6MVsztb2l"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
