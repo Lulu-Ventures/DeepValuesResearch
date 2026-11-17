@@ -7,7 +7,11 @@ tickers: []
 notebook_id: "35f5e857-e0c8-4d0a-9126-ec8831a136a5"
 source_urls:
   - title: "AI Research Threshold"
-youtube: []
+youtube:
+  - title: "Anthropic's AI Speeds Its Own Research 1.9x: Real or Hype?"
+    url: "https://youtu.be/H39mgyrfIIY"
+    lang: "en"
+    publish_at: "2026-11-17T14:00:00Z"
 podcast: []
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
