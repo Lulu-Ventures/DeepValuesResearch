@@ -9,8 +9,14 @@ source_urls:
   - title: "DEEPVALUES MONITOR BRIEF"
   - title: "黄仁勋之后的英伟达：F1赛车、芯片禁令与华盛顿​ | 黄仁勋 | 英伟达 | Nvidia | 芯片禁令 | CUDA | 黄仁勋被罢免 | 美国半导体 | 对华出口管制 | AI算力 | 人工智能"
     url: "https://www.youtube.com/watch?v=Ng8doNXRhiY"
-youtube: []
-podcast: []
+youtube:
+  - title: "Nvidia Ousts Jensen Huang: $4.5T and No Succession Plan"
+    url: "https://youtu.be/Sw3vmOwgxds"
+    lang: "en"
+podcast:
+  - title: "Nvidia Ousts Jensen Huang: $4.5T and No Succession Plan | Investor Playbook"
+    url: "https://open.spotify.com/episode/5c35WlOTW7dUNKEjK0PXJM"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
