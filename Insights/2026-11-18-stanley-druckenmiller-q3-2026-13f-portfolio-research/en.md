@@ -13,8 +13,17 @@ source_urls:
     url: "https://www.sec.gov/Archives/edgar/data/1536411/000153641126000011/0001536411-26-000011-index.htm"
   - title: "https://en.wikipedia.org/wiki/Stanley_Druckenmiller"
     url: "https://en.wikipedia.org/wiki/Stanley_Druckenmiller"
-youtube: []
-podcast: []
+youtube:
+  - title: "Druckenmiller Dumps Alphabet, Adds 180% to Seagate"
+    url: "https://youtu.be/1L_XROvJHlo"
+    lang: "en"
+  - title: "德魯肯米勒砍台積電94%，為何溢價買進Seagate與Unity?"
+    url: "https://youtu.be/AI0XgAkVZf0"
+    lang: "zh"
+podcast:
+  - title: "Druckenmiller Dumps Alphabet, Adds 180% to Seagate | Investor Playbook"
+    url: "https://open.spotify.com/episode/29doWdJoLDl7AwvOEBHIwm"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
