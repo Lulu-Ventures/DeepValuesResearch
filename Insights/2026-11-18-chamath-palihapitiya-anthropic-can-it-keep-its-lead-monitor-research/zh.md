@@ -11,8 +11,14 @@ source_urls:
   - title: "DEEPVALUES MONITOR BRIEF"
   - title: "https://research.socialcapital.com/p/anthropic"
     url: "https://research.socialcapital.com/p/anthropic"
-youtube: []
-podcast: []
+youtube:
+  - title: "Anthropic's $900B Computing Bill: Moat or Treadmill?"
+    url: "https://youtu.be/KRnK5ggDSUo"
+    lang: "en"
+podcast:
+  - title: "Anthropic's $900B Computing Bill: Moat or Treadmill? | Investor Playbook"
+    url: "https://open.spotify.com/episode/11HJeSZgMuMdXF5pM01RP9"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
