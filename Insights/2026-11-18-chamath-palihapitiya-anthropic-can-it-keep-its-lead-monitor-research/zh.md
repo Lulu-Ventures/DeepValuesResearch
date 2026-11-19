@@ -15,10 +15,16 @@ youtube:
   - title: "Anthropic's $900B Computing Bill: Moat or Treadmill?"
     url: "https://youtu.be/KRnK5ggDSUo"
     lang: "en"
+  - title: "Anthropic的9000億美元算力帳單：護城河還是無底洞？"
+    url: "https://youtu.be/EMELq3L84Yk"
+    lang: "zh"
 podcast:
   - title: "Anthropic's $900B Computing Bill: Moat or Treadmill? | Investor Playbook"
     url: "https://open.spotify.com/episode/11HJeSZgMuMdXF5pM01RP9"
     lang: "en"
+  - title: "Anthropic的9000億美元算力帳單：護城河還是無底洞？｜投資大師心法"
+    url: "https://open.spotify.com/episode/7ldZeuQAmbmbfVC62Ni6nc"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
