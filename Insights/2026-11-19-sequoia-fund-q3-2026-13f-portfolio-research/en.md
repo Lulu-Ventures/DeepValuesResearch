@@ -17,8 +17,14 @@ source_urls:
     url: "https://www.sec.gov/Archives/edgar/data/1720792/000091957426007856/0000919574-26-007856-index.htm"
   - title: "https://en.wikipedia.org/wiki/Ruane%2C_Cunniff_%26_Goldfarb"
     url: "https://en.wikipedia.org/wiki/Ruane%2C_Cunniff_%26_Goldfarb"
-youtube: []
-podcast: []
+youtube:
+  - title: "Sequoia Cut Alphabet (GOOGL) 36% at a 0.8% Margin of Safety"
+    url: "https://youtu.be/UEzup5bxTaY"
+    lang: "en"
+podcast:
+  - title: "Sequoia Cut Alphabet (GOOGL) 36% at a 0.8% Margin of Safety | Investor Playbook"
+    url: "https://open.spotify.com/episode/7DEvTpTwKhYjzpO3nNkuwT"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
