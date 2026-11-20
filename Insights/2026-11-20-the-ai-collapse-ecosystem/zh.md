@@ -8,8 +8,14 @@ notebook_id: "5ef9ba31-a33f-464d-9062-f4b36c601cb7"
 source_urls:
   - title: "AI Collapse Ecosystem"
   - title: "AI Market Dynamics"
-youtube: []
-podcast: []
+youtube:
+  - title: "Anthropic's $900B Compute Bill: Who Wins If AI Labs Fail"
+    url: "https://youtu.be/0fUTegV5y-M"
+    lang: "en"
+podcast:
+  - title: "Anthropic's $900B Compute Bill: Who Wins If AI Labs Fail | Stock Market"
+    url: "https://open.spotify.com/episode/5DrsWNhVSNoG4yDRa4PSuw"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
