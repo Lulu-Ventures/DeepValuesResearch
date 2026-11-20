@@ -17,6 +17,9 @@ youtube:
     url: "https://youtu.be/3ZSqNsWqYg4"
     lang: "en"
 podcast:
+  - title: "Anthropic虧損807億美元，為何仍被稱AI印鈔機｜投資大師心法"
+    url: "https://open.spotify.com/episode/7GOA2O5GGrgh6SzFVbLjnW"
+    lang: "zh"
   - title: "Anthropic's $1.4T Valuation Rests on $360B Compute Deals | Investor Playbook"
     url: "https://open.spotify.com/episode/6z2iciFmDTROc6hVzI1Yrc"
     lang: "en"
