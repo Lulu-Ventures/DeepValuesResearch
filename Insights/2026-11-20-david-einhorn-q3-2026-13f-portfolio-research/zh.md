@@ -15,6 +15,9 @@ youtube:
   - title: "Einhorn compra CENX y sale de PYPL: margen de 73.1%"
     url: "https://youtu.be/xtHyq_VCa-E"
     lang: "es"
+  - title: "Einhorn Dumps PayPal, Bets $81.7M on Century Aluminum"
+    url: "https://youtu.be/x4xu-KOn5og"
+    lang: "en"
 podcast:
   - title: "Einhorn compra CENX y sale de PYPL: margen de 73.1%"
     url: "https://open.spotify.com/episode/7q6JnGJ7DLIlNUlayegzSF"
