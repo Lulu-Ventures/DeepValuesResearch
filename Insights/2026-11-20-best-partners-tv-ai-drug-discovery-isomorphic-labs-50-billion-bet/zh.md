@@ -9,8 +9,14 @@ source_urls:
   - title: "AI 制药：Isomorphic Labs 的 500 亿押注 | Isomorphic Labs | AlphaFold | 药物研发 | AI药物设计 | IsoDDE | 生物科技 | 生命科学"
     url: "https://www.youtube.com/watch?v=ub159-rBwpc"
   - title: "DEEPVALUES MONITOR BRIEF"
-youtube: []
-podcast: []
+youtube:
+  - title: "Isomorphic Labs: A $50B Bet on a $2.3B Market"
+    url: "https://youtu.be/4QqcaqLE5r8"
+    lang: "en"
+podcast:
+  - title: "Isomorphic Labs: A $50B Bet on a $2.3B Market | Investor Playbook"
+    url: "https://open.spotify.com/episode/5eSzmztPkEx47ZwPCk58MK"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
