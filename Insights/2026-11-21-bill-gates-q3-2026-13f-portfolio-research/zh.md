@@ -17,6 +17,9 @@ youtube:
   - title: "Gates Trust Trims Waste Management 23%, Opens Dollar Tree"
     url: "https://youtu.be/HHgNLlYMGcc"
     lang: "en"
+  - title: "比爾蓋茲為何重倉收垃圾，卻又大砍WM 23%持股？"
+    url: "https://youtu.be/ZM3Iy7Mrszo"
+    lang: "zh"
 podcast:
   - title: "Gates Trust Trims Waste Management 23%, Opens Dollar Tree | Investor Playbook"
     url: "https://open.spotify.com/episode/2yONBCQvfxOxHABIKQLSqB"
