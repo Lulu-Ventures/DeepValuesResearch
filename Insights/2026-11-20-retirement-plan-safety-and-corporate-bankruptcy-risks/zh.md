@@ -11,10 +11,17 @@ youtube:
   - title: "Your Employer Goes Bankrupt: Is Your $1M 401k Safe?"
     url: "https://youtu.be/p1_-UsJ1BqA"
     lang: "en"
+  - title: "公司破產，401k裡的100萬美元會歸零嗎？真正風險在自家股票"
+    url: "https://youtu.be/WrOgM6gWayU"
+    lang: "zh"
+    publish_at: "2026-11-21T02:00:00Z"
 podcast:
   - title: "Your Employer Goes Bankrupt: Is Your $1M 401k Safe?"
     url: "https://open.spotify.com/episode/27QStxXj2UyJ3fVWJd5SSC"
     lang: "en"
+  - title: "公司破產，401k裡的100萬美元會歸零嗎？真正風險在自家股票｜理財與退休"
+    url: "https://open.spotify.com/episode/1jFti0qg2ubQflcEDgAbZ9"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
