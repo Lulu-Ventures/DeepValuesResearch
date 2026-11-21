@@ -11,8 +11,14 @@ source_urls:
   - title: "DEEPVALUES MONITOR BRIEF"
   - title: "The Value of Human Frailty: Nvidia faces a Jensen Test!"
     url: "https://www.youtube.com/watch?v=kldDGZ-C0MU"
-youtube: []
-podcast: []
+youtube:
+  - title: "NVIDIA's $1.5T Drop: What Is Jensen Huang Worth?"
+    url: "https://youtu.be/Yo4wnD5n1Ow"
+    lang: "en"
+podcast:
+  - title: "NVIDIA's $1.5T Drop: What Is Jensen Huang Worth? | Investor Playbook"
+    url: "https://open.spotify.com/episode/01bjEK67bk8twPq0Lo6yRT"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
