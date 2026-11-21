@@ -8,8 +8,14 @@ notebook_id: "ffcb6f80-b72d-4e76-b11d-01cd4aedc2c3"
 source_urls:
   - title: "Why the Agent Era Needs a New … - The a16z Show - Apple Podcasts"
     url: "https://podcasts.apple.com/us/podcast/the-a16z-show/id842818711?i=1000803152201"
-youtube: []
-podcast: []
+youtube:
+  - title: "DHH's Omarchy: When Code Is Cheap, the Final 2% Wins"
+    url: "https://youtu.be/-MvWK1g9WCc"
+    lang: "en"
+podcast:
+  - title: "DHH's Omarchy: When Code Is Cheap, the Final 2% Wins | AI Explained"
+    url: "https://open.spotify.com/episode/3b3J0l5mOYVy3NLwYQFma5"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
