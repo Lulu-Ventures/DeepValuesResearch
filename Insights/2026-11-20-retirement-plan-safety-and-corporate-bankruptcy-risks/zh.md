@@ -7,8 +7,14 @@ tickers: ["DB"]
 notebook_id: "e51e7729-639d-4666-8096-69eb0bbf8c92"
 source_urls:
   - title: "Retirement Plan Safety"
-youtube: []
-podcast: []
+youtube:
+  - title: "Your Employer Goes Bankrupt: Is Your $1M 401k Safe?"
+    url: "https://youtu.be/p1_-UsJ1BqA"
+    lang: "en"
+podcast:
+  - title: "Your Employer Goes Bankrupt: Is Your $1M 401k Safe?"
+    url: "https://open.spotify.com/episode/27QStxXj2UyJ3fVWJd5SSC"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
