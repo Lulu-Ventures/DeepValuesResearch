@@ -13,10 +13,16 @@ youtube:
   - title: "NVIDIA Without Jensen Huang: Who Backs $530B in Commitments?"
     url: "https://youtu.be/ZkF7DCe8b2A"
     lang: "en"
+  - title: "輝達最大風險是黃仁勳？表外承諾一季暴增至5300億美元"
+    url: "https://youtu.be/M4rfMCoBqqM"
+    lang: "zh"
 podcast:
   - title: "NVIDIA Without Jensen Huang: Who Backs $530B in Commitments? | Investor Playbook"
     url: "https://open.spotify.com/episode/4PGkZUQY7qzJSggwFeOQXd"
     lang: "en"
+  - title: "輝達最大風險是黃仁勳？表外承諾一季暴增至5300億美元｜投資大師心法"
+    url: "https://open.spotify.com/episode/2IEZcJKUh4Jadum4EwsTLQ"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
