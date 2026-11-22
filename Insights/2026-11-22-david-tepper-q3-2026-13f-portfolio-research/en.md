@@ -17,8 +17,14 @@ source_urls:
     url: "https://research.deepvalues.ai/company/mu/"
   - title: "Oracle (ORCL) Stock Analysis & Intrinsic Value: Neutral"
     url: "https://research.deepvalues.ai/company/orcl/"
-youtube: []
-podcast: []
+youtube:
+  - title: "泰普砍谷歌46%加碼美光：安全邊際69.4%對4.8%"
+    url: "https://youtu.be/JDE7TZB-pYM"
+    lang: "zh"
+podcast:
+  - title: "泰普砍谷歌46%加碼美光：安全邊際69.4%對4.8%｜投資大師心法"
+    url: "https://open.spotify.com/episode/5igmcjwIvb21UQmAkJx7pi"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
