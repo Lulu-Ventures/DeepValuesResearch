@@ -19,10 +19,16 @@ youtube:
   - title: "Peter Thiel Cuts to 5 Holdings, Bets $161M on SOXX"
     url: "https://youtu.be/6mjQ5UQnMVI"
     lang: "en"
+  - title: "蒂爾清倉1.3億公用股，轉押1.61億半導體ETF"
+    url: "https://youtu.be/NCU1Kiz3pKs"
+    lang: "zh"
 podcast:
   - title: "Peter Thiel Cuts to 5 Holdings, Bets $161M on SOXX | Investor Playbook"
     url: "https://open.spotify.com/episode/1uCDoevR0An51xjTQQbO9h"
     lang: "en"
+  - title: "蒂爾清倉1.3億公用股，轉押1.61億半導體ETF｜投資大師心法"
+    url: "https://open.spotify.com/episode/0Xa3qjpXS0XaJdPIOHW3jQ"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
