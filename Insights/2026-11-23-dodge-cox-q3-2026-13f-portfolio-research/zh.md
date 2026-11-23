@@ -21,7 +21,10 @@ youtube:
   - title: "Dodge & Cox Sells $4.89B Net, Yet Buys Danaher and Amazon"
     url: "https://youtu.be/ajUFfrYFtYQ"
     lang: "en"
-podcast: []
+podcast:
+  - title: "Dodge & Cox Sells $4.89B Net, Yet Buys Danaher and Amazon | Investor Playbook"
+    url: "https://open.spotify.com/episode/1zx8sPVtCNxdizMkAHnnwK"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
