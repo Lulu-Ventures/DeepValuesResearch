@@ -9,8 +9,14 @@ source_urls:
   - title: "Anthropic上市之际，深聊AI末日论、失控风险与中美合作｜对话《造神之后》作家Robert Wright【101视频播客】"
     url: "https://www.youtube.com/watch?v=EKJJyVzS340"
   - title: "DEEPVALUES MONITOR BRIEF"
-youtube: []
-podcast: []
+youtube:
+  - title: "Anthropic IPO: The 20% Drop If an AI Model Deceives"
+    url: "https://youtu.be/pZr2gJRRPrk"
+    lang: "en"
+podcast:
+  - title: "Anthropic IPO: The 20% Drop If an AI Model Deceives | Investor Playbook"
+    url: "https://open.spotify.com/episode/6yz9JeRQ5GSHgG2CAKmXE1"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
