@@ -9,8 +9,20 @@ source_urls:
   - title: "167年的黎曼猜想被Claude证明，人类证明却被AI找出Bug？ | Anthropic | Lean | 形式化验证 | GPT-6 | 千禧年难题 | 陶哲轩 | 数学证明| AI科研"
     url: "https://www.youtube.com/watch?v=qraBxKBZxRw"
   - title: "DEEPVALUES MONITOR BRIEF"
-youtube: []
-podcast: []
+youtube:
+  - title: "Claude Helped Crack a 167-Year Problem. Anthropic Fell 8.5%"
+    url: "https://youtu.be/BKI6VYOVmTg"
+    lang: "en"
+  - title: "Anthropic的AI證明黎曼猜想，股價卻收跌8.5%:25萬頁沒人看得懂"
+    url: "https://youtu.be/lhBXIG6wojU"
+    lang: "zh"
+podcast:
+  - title: "Claude Helped Crack a 167-Year Problem. Anthropic Fell 8.5% | Investor Playbook"
+    url: "https://open.spotify.com/episode/4LPwOZOwCYta3g7XDXPUb6"
+    lang: "en"
+  - title: "Anthropic的AI證明黎曼猜想，股價卻收跌8.5%:25萬頁沒人看得懂｜投資大師心法"
+    url: "https://open.spotify.com/episode/530ipKlOmaQCi0RpJxHd0l"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
