@@ -17,7 +17,10 @@ source_urls:
     url: "https://www.sec.gov/Archives/edgar/data/200217/000119312526460252/0001193125-26-460252-index.htm"
   - title: "Nvidia (NVDA) Stock Analysis & Intrinsic Value: Neutral"
     url: "https://research.deepvalues.ai/company/nvda/"
-youtube: []
+youtube:
+  - title: "Dodge & Cox Sells $4.89B Net, Yet Buys Danaher and Amazon"
+    url: "https://youtu.be/ajUFfrYFtYQ"
+    lang: "en"
 podcast: []
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
