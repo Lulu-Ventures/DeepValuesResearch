@@ -11,8 +11,14 @@ source_urls:
     url: "https://www.youtube.com/watch?v=cTZ_eF8GkjY"
   - title: "Steve Eisman - Wikipedia"
     url: "https://en.wikipedia.org/wiki/Steve_Eisman"
-youtube: []
-podcast: []
+youtube:
+  - title: "Vertiv, Eaton and AI's 450 GW Power Grid Bottleneck"
+    url: "https://youtu.be/-2tMlgY_Jfk"
+    lang: "en"
+podcast:
+  - title: "Vertiv, Eaton and AI's 450 GW Power Grid Bottleneck | Investor Playbook"
+    url: "https://open.spotify.com/episode/4LskDowP2hw5hT33hNzg85"
+    lang: "en"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
