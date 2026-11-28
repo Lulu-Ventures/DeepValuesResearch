@@ -9,7 +9,10 @@ source_urls:
   - title: "DEEPVALUES MONITOR BRIEF"
   - title: "对话纳德拉​：代码变便宜之后的软件工程 | 微软 | Satya Nadella | AI编程 | Claude Code | GitHub Copilot | 软件工程 | 决策引擎"
     url: "https://www.youtube.com/watch?v=aUmH8iMIA-I"
-youtube: []
+youtube:
+  - title: "Microsoft's Nadella: If Code Is Free, Where Is the Moat?"
+    url: "https://youtu.be/WzloJslQlB4"
+    lang: "en"
 podcast: []
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
