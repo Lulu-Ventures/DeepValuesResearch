@@ -13,7 +13,16 @@ youtube:
   - title: "Microsoft's Nadella: If Code Is Free, Where Is the Moat?"
     url: "https://youtu.be/WzloJslQlB4"
     lang: "en"
-podcast: []
+  - title: "微軟納德拉：程式碼變便宜後，真正的護城河是驗證"
+    url: "https://youtu.be/1DVXTlptIrs"
+    lang: "zh"
+podcast:
+  - title: "Microsoft's Nadella: If Code Is Free, Where Is the Moat? | Investor Playbook"
+    url: "https://open.spotify.com/episode/61CT7mPqEBKPOvKboIiDrk"
+    lang: "en"
+  - title: "微軟納德拉：程式碼變便宜後，真正的護城河是驗證｜投資大師心法"
+    url: "https://open.spotify.com/episode/4MhdPS0JInHei7dlPGdIh5"
+    lang: "zh"
 generated_by: "NotebookLM + DeepValues editors"
 disclosure: "AI-assisted"
 ---
